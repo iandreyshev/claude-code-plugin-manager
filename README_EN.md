@@ -1,6 +1,6 @@
 # Claude Plugins Manager (CPM)
 
-🇷🇺 [Русская версия](README.md)
+🇷🇺 [Russian version](README.md)
 
 A command-line utility for managing Claude Code plugins on Windows.
 
